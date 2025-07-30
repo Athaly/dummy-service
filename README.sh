@@ -1,4 +1,4 @@
-# Dummy Systemd Service
+#Dummy Systemd Service
 
 Este proyecto es parte de un ejercicio de DevOps para aprender a crear y gestionar servicios con systemd.
 
